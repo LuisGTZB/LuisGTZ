@@ -1,12 +1,13 @@
 <div align="center">
 
 <h1 style="border-bottom: none">
-    <b><a href="#">Personal Portfolio - Developer</a></b>
+    <b><a href="#">Personal Portfolio
+    </a></b>
 </h1>
 
-Personal - Portfolio is a fully responsive personal developer portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
+Personal - Portfolio is a fully responsive personal portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
 
-Live Preview: 👉🏽 [personal-portfolio.githu.io](https://ivansaul.github.io/personal-portfolio/)
+Live Preview: 👉🏽 [personal-portfolio.githu.io](https://luisgtzb.github.io/LuisGTZ/)
 
 ![Made-with-python](https://img.shields.io/badge/Made%20with-Python-orange)
 [![Jinja](https://github.com/ivansaul/personal-portfolio/actions/workflows/jinja.yml/badge.svg)](https://github.com/ivansaul/personal-portfolio/actions/workflows/jinja.yml)
