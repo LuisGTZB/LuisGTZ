@@ -1,83 +1,49 @@
 [[project]]
-title = "Flutter"
+title = "Working on it..."
 category = "Mobile development"
-image = "https://i.imgur.com/ANDVQ4o.png"
-url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
+image = "./config/assets/projects/canvas.min.webp"
+url = "https://github.com/LuisGTZB"
 
 [[project]]
-title = "Flutter Coffee Shop App"
-category = "Mobile development"
-image = "https://imgur.com/2nNXhDN.png"
-url = "https://github.com/ivansaul/flutter_coffee_shop_app#screenshots"
-
-[[project]]
-title = "Flutter Todo App"
-category = "Mobile development"
-image = "https://imgur.com/7110Lj1.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
-
-[[project]]
-title = "Flutter Travel News App"
-category = "Mobile development"
-image = "https://imgur.com/t5T5Ixa.png"
-url = "https://github.com/ivansaul/flutter_travel_news_app#screenshots"
-
-[[project]]
-title = "Codigo Facilito Downloader"
+title = "Web Scrapping for page changes detection"
 category = "Python Scripting"
-image = "https://imgur.com/kyHrBGk.png"
-url = "https://github.com/ivansaul/codigo_facilito_downloader"
+image = "./config/assets/projects/Web-Scraping.png"
+url = "https://github.com/LuisGTZB/WebScrappingJCF"
 
 [[project]]
-title = "Finance"
+title = "Genetic Algorithm using OneMax"
+category = "Python Scripting"
+image = "./config/assets/projects/project-12.jpg"
+url = "https://github.com/LuisGTZB/Genetic_Algorithm"
+
+[[project]]
+title = "Product Manager Application"
 category = "Web development"
-image = "./config/assets/projects/project-1.jpg"
-url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
+image = "./config/assets/projects/project-11.png"
+url = "https://github.com/LuisGTZB/AplicacionWeb"
 
 [[project]]
-title = "Orizon"
+title = "ChatBot-Interface"
 category = "Web development"
-image = "./config/assets/projects/project-2.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
+image = "./config/assets/projects/project-10.PNG"
+url = "https://github.com/LuisGTZB/Chatbot_Interface"
 
 [[project]]
-title = "Fundo"
-category = "Web design"
-image = "./config/assets/projects/project-3.jpg"
-url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
+title = "Analysis of environmental inspection and surveillance actions in Mexico"
+category = "Data Project"
+image = "./config/assets/projects/project-14.PNG"
+url = "https://github.com/LuisGTZB/hacking-civico/blob/master/proyecto/Proyecto_Hacking_civico.ipynb"
 
 [[project]]
-title = "Brawlhalla"
+title = "Working on it..."
 category = "Applications"
-image = "./config/assets/projects/project-4.png"
-url = "https://github.com/ivansaul/flutter_coffee_shop_app#screenshots"
+image = "./config/assets/projects/canvas.min.webp"
+url = "https://github.com/LuisGTZB"
 
 [[project]]
-title = "DSM."
-category = "Web design"
-image = "./config/assets/projects/project-5.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
+title = "Data analysis of a solar energy company."
+category = "Data analysis of a solar energy company"
+image = "./config/assets/projects/project-13.PNG"
+url = "https://github.com/LuisGTZB/Bright"
 
-[[project]]
-title = "MetaSpark"
-category = "Web design"
-image = "./config/assets/projects/project-6.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
 
-[[project]]
-title = "Summary"
-category = "Web development"
-image = "./config/assets/projects/project-7.png"
-url = "https://github.com/ivansaul/codigo_facilito_downloader"
-
-[[project]]
-title = "Task Manager"
-category = "Applications"
-image = "./config/assets/projects/project-8.jpg"
-url = "https://github.com/ivansaul/flutter_coffee_shop_app#screenshots"
-
-[[project]]
-title = "Arrival"
-category = "Web development"
-image = "./config/assets/projects/project-9.png"
-url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"

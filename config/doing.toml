@@ -1,7 +1,7 @@
 [[doing]]
-title = "Mobile Apps"
-icon = "./config/assets/icons/mobile.svg"
-text = "Professional development of applications for iOS and Android."
+title = "Data Science"
+icon = "./config/assets/icons/bar-chart.svg"
+text = "I'm currently learning data science and have approximately one year of experience in the professional area."
 
 [[doing]]
 title = "Scripting"
@@ -9,11 +9,11 @@ icon = "./config/assets/icons/code.svg"
 text = "Automation and task scripting using Python to enhance efficiency and productivity."
 
 [[doing]]
-title = "UI/UX Designing"
-icon = "./config/assets/icons/compass.svg"
-text = "Intuitive and visually appealing user interfaces and user experiences."
+title = "DBA"
+icon = "./config/assets/icons/database.svg"
+text = "Database administration and related data management activities."
 
 [[doing]]
 title = "Web Development"
 icon = "./config/assets/icons/laptop-code.svg"
-text = "High-quality development of sites at the professional level."
+text = "High-quality development of sites at the professional level using HTML, CSS and JS."

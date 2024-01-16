@@ -1,37 +1,39 @@
 ############## Education config #################
 #################################################
 [[education]]
-title = "High school of art and design"
-timeline = "2002 — 2004"
-description = "Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos."
+title = "Centro de Investigación e Innovación en tecnologías de la información y la comunicación (INFOTEC)"
+timeline = "2023"
+description = "Course: Introduction to Data Science."
 
 [[education]]
-title = "New york academy of art"
-timeline = "2006 — 2007"
-description = "Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis.."
+title = "Universidad de Guanajuato (DCEA)<"
+timeline = "2018 — 2022"
+description = "Bachelor's degree in Sistemas de Información Administrativa."
 
 [[education]]
-title = "University school of the arts"
-timeline = "2007 — 2008"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "ENMSL (UG) León"
+timeline = "2015 — 2018"
+description = "Baccalaureate in Business Administration and Economics."
 
 
 ############## Experience config ################
 #################################################
 [[experience]]
-title = "Web designer"
-timeline = "2010 — 2013"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "Data Scientist Jr"
+timeline = "Dec 2022 — Nov 2023"
+description = "As a junior data scientist, I have had the opportunity to work on various projects and gain experience in different areas of data science. During my time in this position, I have collaborated in data cleaning and preparation, as well as exploratory analysis and information visualization. In addition, I have participated in the construction and evaluation of machine learning prediction and classification models and have contributed in the implementation of solutions for process optimization. Through these experiences, I have developed skills in programming in languages such as Python and R, as well as in the management of data science tools and libraries. I have also worked in cross-functional teams, which has allowed me to improve my communication and collaboration skills. I am excited to continue to grow in my career as a data scientist and apply my knowledge and experience to new challenges."
 
 [[experience]]
-title = "Art director"
-timeline = "2013 — 2015"
+title = "Data Scientist Intern"
+timeline = "Sept 2022 - Dec 2022"
 description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
 
-[[experience]]
-title = "Creative director"
-timeline = "2015 — Present"
-description = "Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur."
+############## Certificates config ################
+#################################################
+[[Certificates]]
+title = "Oracle Cloud Data Management 2023 Certified Foundations Associate"
+timeline = "Sept 2023"
+description = "The Oracle Cloud Data Management Foundations certification is intended for individuals looking to demonstrate fundamental knowledge of data management services provided by Oracle."
 
 
 ############## Skills config ####################
@@ -43,20 +45,32 @@ show_bar = true
 show_value = true
 
 [[skill]]
-title = "Web design"
+title = "programming"
 value = "80%"
 
 [[skill]]
-title = "Graphic design"
+title = "Data Manipulation"
 value = "70%"
 
 [[skill]]
-title = "Branding"
-value = "90%"
+title = "Statistical Analysis"
+value = "70%"
 
 [[skill]]
-title = "WordPress"
-value = "50%"
+title = "Data Visualization"
+value = "60%"
+
+[[skill]]
+title = "Machine Learning"
+value = "40%"
+
+[[skill]]
+title = "Business Understanding"
+value = "70%"
+
+[[skill]]
+title = "Web Development<"
+value = "60%"
 
 ############## Language config ##################
 #################################################
@@ -67,9 +81,9 @@ show_bar = true
 show_value = true
 
 [[language]]
-title = "Ingles"
-value = "60%"
+title = "Spanish"
+value = "100%"
 
 [[language]]
-title = "French"
-value = "50%"
+title = "English"
+value = "15%"
