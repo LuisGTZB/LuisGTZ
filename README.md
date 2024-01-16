@@ -25,7 +25,8 @@ Live Preview: 👉🏽 [personal-portfolio.githu.io](https://luisgtzb.github.io/
 ---
 
 ## Demo
-![Demo](https://raw.githubusercontent.com/ivansaul/demos/master/python/personal-portfolio-demo.gif)
+![Demo](![image](https://github.com/LuisGTZB/LuisGTZ/assets/64428694/f62814b6-f512-4fa8-afb2-eb3a4a4ef500)
+)
 
 ## **How to make it yours?** 
 
