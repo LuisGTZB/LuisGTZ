@@ -1,10 +1,11 @@
 <div align="center">
 
 <h1 style="border-bottom: none">
-    <b><a href="#">Personal Portfolio - Developer</a></b>
+    <b><a href="#">Personal Portfolio
+    </a></b>
 </h1>
 
-Personal - Portfolio is a fully responsive personal developer portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
+Personal - Portfolio is a fully responsive personal portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
 
 Live Preview: 👉🏽 [personal-portfolio.githu.io](https://luisgtzb.github.io/LuisGTZ/)
 
@@ -19,8 +20,13 @@ Live Preview: 👉🏽 [personal-portfolio.githu.io](https://luisgtzb.github.io/
 ---
 
 ## Demo
+<<<<<<< HEAD
 ![Demo](![Alt text](image.png))
 
+=======
+![Demo](![image](https://github.com/LuisGTZB/LuisGTZ/assets/64428694/f62814b6-f512-4fa8-afb2-eb3a4a4ef500)
+)
+>>>>>>> 308986da3d2eb2f6aff36bd88d5b24637b3a98ac
 
 ## **How to make it yours?** 
 
