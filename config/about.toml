@@ -1,0 +1,16 @@
+name = "Luis Gutiérrez! "
+rol = "Data Scientist"
+email = "josegbluis@hotmail.com"
+phone = "+52 (477) 142-0304"
+birthday = "May 6, 2000"
+location = "León, Guanajuato, México"
+avatar = "./config/assets/avatars/profilee.jpg"
+username = "LuisGTZB" # <-- github user name
+googlemaps = "https://maps.app.goo.gl/77LrJLPWvb42MwgB8" 
+presentation = """
+Hello! I'm Luis, a software engineer and data science enthusiast from León, Mexico. I find immense joy in unraveling the stories that data has to tell. My journey in the world of data science has been rewarding, enlightening, and challenging. Driven by the curiosity to understand and harness the power of data, I am on a perpetual quest for knowledge.
+
+In the fascinating field of machine learning, I have found my passion. The dynamic nature of this domain propels me to stay at the forefront of advancements. I am enthusiastic about leveraging data-driven insights to solve complex problems. Learning is a lifelong commitment for me, and I relish every opportunity to expand my skills.
+
+I take pride in being part of the vibrant community of data enthusiasts, and I am excited about the limitless possibilities that lie ahead. Feel free to explore my portfolio, and let's embark on this data-driven journey together!
+"""
