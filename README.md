@@ -60,11 +60,11 @@ For example, to set your contact information, edit `config/about.toml`.
 ```toml
 name = "Luis Gutiérrez! "
 rol = "Data Scientist"
-email = "josegbluis@hotmail.com"
-phone = "+52 (477) 142-0304"
-birthday = "May 6, 2000"
+email = "email@example.com"
+phone = "+52 (xxx) xxx-xxxx"
+birthday = "May x, xxxx"
 location = "León, Guanajuato, México"
-avatar = "./config/assets/avatars/profilee.jpg"
+avatar = "./config/assets/avatars/your_profile_pic.jpg"
 ```
 
 ### Step 3:
